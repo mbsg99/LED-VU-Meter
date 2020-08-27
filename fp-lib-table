@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LM358N)(type KiCad)(uri ${KIPRJMOD}/LM358N)(options "")(descr ""))
+  (lib (name LM3914N)(type KiCad)(uri ${KIPRJMOD}/LM3914N)(options "")(descr ""))
+)
