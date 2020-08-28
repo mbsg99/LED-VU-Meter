@@ -1,3 +1,5 @@
+Visit @JLCPCB-OFFICIAL
+
 # LED-VU-Meter with JLCPCB
 Volume Meter is an Equalizer in the Music systems. In which lights dancing (LEDs) can be seen according to the song, if the song is loud, it reaches its height and stays low in low music.Volume Meter or VU meter PCB design is designed, with the aid of MIC, OP-AMP and LM3914, which glows the LEDs according to sound power, if sound is small, less LEDs will glow, and if sound is High more LEDs will glow, it will also serve as a volume measuring instrument.
 
